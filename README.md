@@ -1,10 +1,12 @@
-# Horário
+# Gerador de tabuada
 
-## Meu primeiro projeto em **JS
+## Projeto JS para chegar tabuada através de uma entrada
 
-### Projeto simples mostra a hora do dia para o usário, aplica uma foto e muda o background referenciando: 
+### Entradas: 
 
-- Manhã
-- Tarde
-- Noite
+- Número
+
+### Saída 
+
+- Tabuada gerada apartir do número digitado
 
