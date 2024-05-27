@@ -10,3 +10,6 @@
 
 - Tabuada gerada apartir do número digitado
 
+Tela:
+
+<img src="imagens/img.png">
